@@ -10,3 +10,5 @@ python chat_gemma_sc.py
 Server runs by default on http://http://127.0.0.1:7860 Open in your browser
 
 Clear history after a few turns. 
+
+https://blog.google/technology/developers/gemma-open-models/
